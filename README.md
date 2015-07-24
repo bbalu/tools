@@ -1,5 +1,5 @@
 # tools
-tools I have found to be useful for web application development
+tools for web application development
 
 ## Cloud (native) Application Platform
 last updated: 24 July 2015
