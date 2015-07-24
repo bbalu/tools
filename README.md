@@ -11,6 +11,9 @@ Open source PaaS
 ##[Deis](http://deis.io/)
 A lightweight Open source platform for private and public clouds from [EngineYard](https://www.engineyard.com/).
 
+## [Flynn](https://flynn.io/)
+A lightweight Open source platform (PaaS)
+
 ##[Empire](https://github.com/remind101/empire)
 A Open source PaaS built on top of Amazon EC2 Container Service (ECS) from [Remind](https://www.remind.com/)
 
