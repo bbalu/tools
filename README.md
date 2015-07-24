@@ -12,7 +12,7 @@ A lightweight Open source platform for private and public clouds from [EngineYar
 
 ##[Empire](https://github.com/remind101/empire)
 A PaaS built on top of Amazon EC2 Container Service (ECS) from [Remind](https://www.remind.com/)
-product background, [read here](http://engineering.remind.com/introducing-empire/)
+Read product background [here](http://engineering.remind.com/introducing-empire/)
 
 # Operations
 last updated: 24 July 2015
