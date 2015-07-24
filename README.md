@@ -1,14 +1,17 @@
 # tools
 tools I have found to be useful for web application development
 
-# cloud native application platform
+# Cloud (native) Application Platform
 last updated: 24 July 2015
 
+## [cloud foundry](https://www.cloudfoundry.org/)
+
+
 ##[Deis](http://deis.io/)
-Open source platform for private and public clouds
+A lightweight Open source platform for private and public clouds from [EngineYard](https://www.engineyard.com/).
 
 ##[Empire](https://github.com/remind101/empire)
-A PaaS built on top of Amazon EC2 Container Service (ECS)
+A PaaS built on top of Amazon EC2 Container Service (ECS) from [Remind](https://www.remind.com/)
 product background, [read here](http://engineering.remind.com/introducing-empire/)
 
 # Operations
