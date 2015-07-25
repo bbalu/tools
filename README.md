@@ -41,5 +41,11 @@ express(http://expressjs.com/)
 
 [Pure (Yahoo)](http://purecss.io/):  set of small, responsive CSS modules that you can use in every web project.
 
+## Desktop Apps using Web Technologies
 
+[Electron from Github](http://electron.atom.io/): Build cross platform desktop apps with web technologies
+
+[nwjs](http://nwjs.io/): lets you call all Node.js modules directly from DOM and enables a new way of writing applications with all Web technologies. It was previously known as "node-webkit" project. It was created in the Intel Open Source Technology Center.
+
+[Chromium Embedded Framework, CEF](https://bitbucket.org/chromiumembedded/cef): a simple framework for embedding Chromium-based browsers in other applications.
 
