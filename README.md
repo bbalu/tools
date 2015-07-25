@@ -23,6 +23,9 @@ Prometheus is a systems and service monitoring system. It collects metrics from 
 
 Background, [read here](https://developers.soundcloud.com/blog/prometheus-monitoring-at-soundcloud)
 
+[Bosun](http://bosun.org/): 
+Time series alerting framework in Go. It includes a data collector (Scollector) and lets you define alerts with a custom DSL. Built by [Stack Exchange](http://stackexchange.com/)
+
 ## Web Frameworks
 
 [nodejs]()
