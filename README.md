@@ -13,10 +13,7 @@ A lightweight Open source platform for private and public clouds from [EngineYar
 [Flynn](https://flynn.io/)
 A lightweight Open source platform (PaaS)
 
-[Empire](https://github.com/remind101/empire)
-A Open source PaaS built on top of Amazon EC2 Container Service (ECS) from [Remind](https://www.remind.com/)
-
-Read product background [here](http://engineering.remind.com/introducing-empire/)
+[Empire](https://github.com/remind101/empire): A Open source PaaS built on top of Amazon EC2 Container Service (ECS) from [Remind](https://www.remind.com/). Read product background [here](http://engineering.remind.com/introducing-empire/)
 
 ## Operations
 last updated: 24 July 2015
@@ -34,6 +31,8 @@ express(http://expressjs.com/)
 ## Frontend Frameworks
 
 [Bootstrap (twitter)](http://getbootstrap.com/): Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+
+[Ionic](http://ionicframework.com/): open source front-end SDK for developing amazing **mobile apps**(Hybrid) with web technologies. Ionic provides cross platform support using Cordova.  
 
 [Foundation (for Apps)](http://foundation.zurb.com/apps/): The first front-end framework created for developing fully responsive web apps
 
