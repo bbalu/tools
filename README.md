@@ -18,6 +18,8 @@ A lightweight Open source platform (PaaS)
 ## Operations
 last updated: 24 July 2015
 
+[Gauntlt](http://gauntlt.org/): Gauntlt provides hooks to a variety of **security tools** and puts them within reach of security, dev and ops teams to collaborate to build rugged software. It is built to facilitate testing and communication between groups and create actionable tests that can be hooked into your deploy and testing processes.
+
 [Prometheus] (http://prometheus.io/)
 Prometheus is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true.
 
