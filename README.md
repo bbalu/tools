@@ -51,3 +51,17 @@ express(http://expressjs.com/)
 
 [Chromium Embedded Framework, CEF](https://bitbucket.org/chromiumembedded/cef): a simple framework for embedding Chromium-based browsers in other applications.
 
+[PINRemoteImage](https://github.com/pinterest/PINRemoteImage) from Pinterest
+
+Fast, non-deadlocking parallel image downloader and cache for iOS
+
+PINRemoteImage features include:
+
+* Download and processing priority
+* Image decompression off the main thread
+* Attractive blurred progressive JPEGs
+* Image post-processing
+* Automatically choose and download different images depending on recent network conditions
+* Optional support of FLAnimatedImage (Flipboard’s GIF library)
+* Optional support for WebP
+* Never blocks on the main thread
