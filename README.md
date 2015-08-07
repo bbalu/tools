@@ -65,3 +65,7 @@ PINRemoteImage features include:
 * Optional support of FLAnimatedImage (Flipboard’s GIF library)
 * Optional support for WebP
 * Never blocks on the main thread
+
+## browser based terminal emu;lators
+
+[jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal)
