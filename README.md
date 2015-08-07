@@ -72,7 +72,7 @@ PINRemoteImage features include:
 
 [GateOne](https://github.com/liftoff/GateOne)
 
-*Gate One is an HTML5-powered terminal emulator and SSH client
+* Gate One is an HTML5-powered terminal emulator and SSH client
 
 [codemirror](https://codemirror.net/index.html)
 
