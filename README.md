@@ -70,6 +70,10 @@ PINRemoteImage features include:
 
 [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal)
 
+[GateOne](https://github.com/liftoff/GateOne)
+
+*Gate One is an HTML5-powered terminal emulator and SSH client
+
 [codemirror](https://codemirror.net/index.html)
 
 * text editor implemented in JavaScript for the browser.
