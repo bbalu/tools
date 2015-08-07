@@ -66,7 +66,7 @@ PINRemoteImage features include:
 * Optional support for WebP
 * Never blocks on the main thread
 
-## browser based terminal emu;lators
+## browser based terminal emulators
 
 [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal)
 
