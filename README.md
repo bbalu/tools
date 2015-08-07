@@ -69,3 +69,7 @@ PINRemoteImage features include:
 ## browser based terminal emu;lators
 
 [jQuery Terminal Emulator](https://github.com/jcubic/jquery.terminal)
+
+[codemirror](https://codemirror.net/index.html)
+
+text editor implemented in JavaScript for the browser.
