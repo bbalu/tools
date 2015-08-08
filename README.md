@@ -11,6 +11,8 @@ FlatBuffers is an efficient cross platform serialization library for C++, with s
 
 It is available as Open Source on GitHub under the Apache license, v2 
 
+[Improving Facebook's performance on Android with FlatBuffers](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers/)
+
 [Apache Thrift](https://thrift.apache.org/)
 
 The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
