@@ -1,6 +1,28 @@
 # tools
 tools for web application development
 
+## Serialization Protocols
+
+[Cap'n Proto](https://capnproto.org/): Cap'n Proto serialization/RPC system
+
+[Fast Buffers](https://google.github.io/flatbuffers/)
+
+FlatBuffers is an efficient cross platform serialization library for C++, with support for Java, C# and Go. It was created at Google specifically for game development and other performance-critical applications.
+
+It is available as Open Source on GitHub under the Apache license, v2 
+
+[Apache Thrift](https://thrift.apache.org/)
+
+The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.
+
+[MessagePack](http://msgpack.org/index.html)
+
+MessagePack is an efficient binary serialization format. It lets you exchange data among multiple languages like JSON. But it's faster and smaller. Small integers are encoded into a single byte, and typical short strings require only one extra byte in addition to the strings themselves.
+
+[Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data. From Google.
+
 ## Cloud (native) Application Platform
 last updated: 24 July 2015
 
