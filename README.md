@@ -7,11 +7,11 @@ tools for web application development
 
 [Fast Buffers](https://google.github.io/flatbuffers/)
 
-FlatBuffers is an efficient cross platform serialization library for C++, with support for Java, C# and Go. It was created at Google specifically for game development and other performance-critical applications.
+* FlatBuffers is an efficient cross platform serialization library for C++, with support for Java, C# and Go. It was created at Google specifically for game development and other performance-critical applications.
 
-It is available as Open Source on GitHub under the Apache license, v2 
+* It is available as Open Source on GitHub under the Apache license, v2 
 
-[Improving Facebook's performance on Android with FlatBuffers](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers/)
+* [Improving Facebook's performance on Android with FlatBuffers](https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers/)
 
 [Apache Thrift](https://thrift.apache.org/)
 
