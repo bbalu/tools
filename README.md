@@ -77,3 +77,11 @@ PINRemoteImage features include:
 [codemirror](https://codemirror.net/index.html)
 
 * text editor implemented in JavaScript for the browser.
+
+
+## Project Management Tools
+
+[plan.io](https://plan.io/)
+
+[Trello](https://trello.com/)
+
