@@ -105,5 +105,7 @@ PINRemoteImage features include:
 
 [plan.io](https://plan.io/)
 
+Based on Redmine
+
 [Trello](https://trello.com/)
 
