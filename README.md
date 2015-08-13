@@ -3,6 +3,10 @@ tools for web application development
 
 ## Serialization Protocols
 
+[gRPC from Google](http://www.grpc.io/)
+
+A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. 
+
 [Cap'n Proto](https://capnproto.org/): Cap'n Proto serialization/RPC system
 
 [Fast Buffers](https://google.github.io/flatbuffers/)
