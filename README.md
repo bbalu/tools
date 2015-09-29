@@ -47,6 +47,8 @@ A lightweight Open source platform (PaaS)
 
 Python based mini PaaS from Autodesk.
 
+[Dokku](http://progrium.viewdocs.io/dokku/)
+
 ## Operations
 last updated: 24 July 2015
 
