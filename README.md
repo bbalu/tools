@@ -4,6 +4,8 @@ tools for web application development
 
 * [RabbitMQ](https://www.rabbitmq.com/)
 
+* [Kafka](http://kafka.apache.org/)
+
 * [ZeroMQ](http://www.aosabook.org/en/zeromq.html)
 
 ## Serialization Protocols
@@ -125,4 +127,3 @@ PINRemoteImage features include:
 Based on Redmine
 
 [Trello](https://trello.com/)
-
