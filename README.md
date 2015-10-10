@@ -1,5 +1,10 @@
 # tools
 tools for web application development
+## messaging
+
+* [RabbitMQ](https://www.rabbitmq.com/)
+
+* [ZeroMQ](http://www.aosabook.org/en/zeromq.html)
 
 ## Serialization Protocols
 
