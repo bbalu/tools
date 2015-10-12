@@ -36,6 +36,16 @@ MessagePack is an efficient binary serialization format. It lets you exchange da
 
 Protocol buffers are a language-neutral, platform-neutral extensible mechanism for serializing structured data. From Google.
 
+## API Management
+
+[APIDoc](http://www.apidoc.me/doc/)
+
+* Beautiful documentation for REST services.
+
+* Simple native client libraries with no dependencies.
+
+* Better REST services, written by hand--with love.
+
 ## Cloud (native) Application Platform
 last updated: 19 Aug 2015
 
