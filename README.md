@@ -1,5 +1,16 @@
 # tools
 tools for web application development
+## load balacing microservices
+
+[BakerStreet](http://bakerstreet.io/)
+
+Simple client side load balancer for microservices
+
+[SmartStack from Airbnb](http://nerds.airbnb.com/smartstack-service-discovery-cloud/)
+
+Service discovery in the cloud
+
+
 ## messaging
 
 * [RabbitMQ](https://www.rabbitmq.com/)
