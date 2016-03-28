@@ -26,6 +26,8 @@ Perfect for testing web APIs, mobile and web app backends, microservices, and BF
 
 [Nginx cache performance using redis, cosockets and lua](http://charlesleifer.com/blog/measuring-nginx-cache-performance-using-lua-and-redis)
 
+[live video streaming and hotlink protection](http://benwilber.github.io/streamboat.tv/nginx/varnish/hotlink/video/streaming/hls/2016/02/06/hls-video-hotlink-protection-with-nginx-and-varnish.html)
+
 ## messaging
 
 * [RabbitMQ](https://www.rabbitmq.com/)
