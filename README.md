@@ -10,7 +10,7 @@ tools for web application development
 
  Service discovery in the cloud
 
-
+## 
 ## messaging
 
 * [RabbitMQ](https://www.rabbitmq.com/)
@@ -65,6 +65,8 @@ Open source PaaS
 
 [Deis](http://deis.io/)
 A lightweight Open source platform for private and public clouds from [EngineYard](https://www.engineyard.com/).
+
+[Dove Cote](https://medium.com/@dashersw/introducing-dovec%C3%B4te-f9383a34ed09#.p88ighyi4)
 
 [Flynn](https://flynn.io/)
 A lightweight Open source platform (PaaS)
