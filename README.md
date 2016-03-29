@@ -1,5 +1,10 @@
 # tools
 tools for web application development
+
+## containers orchestration 
+
+[Helios from spotify](https://github.com/spotify/helios)
+
 ## load balacing microservices
 
 * [BakerStreet](http://bakerstreet.io/)
@@ -75,7 +80,7 @@ Protocol buffers are a language-neutral, platform-neutral extensible mechanism f
 * Better REST services, written by hand--with love.
 
 ## Cloud (native) Application Platform
-last updated: 19 Aug 2015
+last updated: 29-Mar-16
 
 [Cloud Foundry](https://www.cloudfoundry.org/)
 Open source PaaS
